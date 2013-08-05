@@ -1,0 +1,9 @@
+inherit rubygem
+
+NAME="ruby-levenshtein"
+VERSION=0.2.2
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby levenshtein distance module"
+DESCRIPTION="Ruby module for calculating the Levenshtein distance between two
+byte strings."
